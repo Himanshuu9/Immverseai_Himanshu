@@ -105,6 +105,10 @@ Model Comparison Results:
 4           Decision Tree     1.000        1.0   1.000  1.000000
 
 
+![result_plot](https://github.com/user-attachments/assets/95bab935-443f-4c88-8b5d-d6210b71d102)
+
+
+
 ## Analyse the Model based on metrics
 
 The model is trained on the dataset and the metrics are calculated. The metrics are used to evaluate the performance of the model.
