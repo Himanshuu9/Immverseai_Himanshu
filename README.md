@@ -1,5 +1,7 @@
-﻿# Immverseai_Himanshu
-
+# Immverse Ai Assginment (Voice Classifier)
+=====================================
+- Text Classification for Active vs. Passive Voice Detection
+ 
  # Go through the notebook -----(https://github.com/Himanshuu9/Immverseai_Himanshu/blob/main/voice_classification_final.ipynb)
 
 # Active vs Passive Voice Classification
@@ -11,7 +13,6 @@ This project involves building a machine learning model to classify sentences in
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
-- [Setup and Installation](#setup-and-installation)
 - [Model Training and Evaluation](#model-training-and-evaluation)
 - [Results](#results)
 - [How to Use](#how-to-use)
