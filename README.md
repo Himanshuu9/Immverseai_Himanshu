@@ -1,6 +1,6 @@
 ﻿# Immverseai_Himanshu
 
- # Go through the notebook -----(link)
+ # Go through the notebook -----(https://github.com/Himanshuu9/Immverseai_Himanshu/blob/main/voice_classification_final.ipynb)
 
 # Active vs Passive Voice Classification
 
