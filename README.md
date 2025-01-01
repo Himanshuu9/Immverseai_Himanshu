@@ -94,6 +94,17 @@ Testing:
 Confusion Matrix Visualization:
 - Plot a confusion matrix for the test predictions.
 
+# results
+
+Model Comparison Results:
+                    Model  Accuracy  Precision  Recall  F1 Score
+0           Random Forest     1.000        1.0   1.000  1.000000
+1     Logistic Regression     0.500        0.5   0.500  0.466667
+2     K-Nearest Neighbors     1.000        1.0   1.000  1.000000
+3  Support Vector Machine     0.125        0.1   0.125  0.111111
+4           Decision Tree     1.000        1.0   1.000  1.000000
+
+
 ## Analyse the Model based on metrics
 
 The model is trained on the dataset and the metrics are calculated. The metrics are used to evaluate the performance of the model.
@@ -129,6 +140,4 @@ Enter any of the sentences in the input:
 3. * Active voice: "Carmen sings the song"
    * Passive voice: "The song is sung by Carmen"
 
-
-# results
-
+  
