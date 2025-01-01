@@ -143,5 +143,8 @@ Enter any of the sentences in the input:
 
 3. * Active voice: "Carmen sings the song"
    * Passive voice: "The song is sung by Carmen"
+  
+   ![result](https://github.com/user-attachments/assets/2856760a-8512-49b1-ad05-f20aab19b666)
+
 
   
